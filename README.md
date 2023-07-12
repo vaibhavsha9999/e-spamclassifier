@@ -43,4 +43,5 @@ Further improvements and optimizations can be made to enhance the model's perfor
 The project includes a web interface where users can input text messages and receive predictions on whether the message is spam or not. This interface is created using **Streamlit** . The website provides a user-friendly interface for real-time spam detection.
 
 ## 8. Deployment
-The final model is deployed, and the website is hosted to make it accessible to users. The deployed model and vectorizer are saved as pickle files for future use.
+The final model is deployed, and the website is hosted to make it accessible to users. This process is done using **docker** and **Azure**.
+You can access the app from https://spamclassify.azurewebsites.net/
