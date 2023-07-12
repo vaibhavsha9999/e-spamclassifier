@@ -1,22 +1,5 @@
 # Email/SMS Spamclassifier
 
-## Technologies Used
-### Programming Language
-- Python
-### Libraries/Frameworks:
-- numpy
-- pandas
-- scikit-learn
-- nltk
-- matplotlib
-- seaborn
-- wordcloud
-### Tools/Platforms:
-- Jupyter Notebook
-- VSCode
-- Docker
-- Microsoft Azure
-
 This project aims to build a spam detection model using machine learning techniques and data used in this project looks like - 
 ![Screenshot (52)](https://github.com/vaibhavsha9999/e-spamclassifier/assets/92802512/fe83a0b9-61d6-4031-bdd3-2c25dd9a56e9)
 
@@ -62,3 +45,20 @@ The project includes a web interface where users can input text messages and rec
 ## 8. Deployment
 The final model is deployed, and the website is hosted to make it accessible to users. This process is done using **docker** and **Azure**.
 You can access the app from https://spamclassify.azurewebsites.net/
+
+## Technologies Used
+### Programming Language
+- Python
+### Libraries/Frameworks:
+- numpy
+- pandas
+- scikit-learn
+- nltk
+- matplotlib
+- seaborn
+- wordcloud
+### Tools/Platforms:
+- Jupyter Notebook
+- VSCode
+- Docker
+- Microsoft Azure
