@@ -62,3 +62,11 @@ You can access the app from https://spamclassify.azurewebsites.net/
 - VSCode
 - Docker
 - Microsoft Azure
+
+## Instructions
+To run this on your own system -
+- Pull this repositery
+- Install reuired dependency and library using -
+  ```pip install -r requirements.txt
+- Run using -
+  ```streamlit run app.py
