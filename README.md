@@ -40,7 +40,7 @@ The performance of each trained model is evaluated using metrics such as accurac
 Further improvements and optimizations can be made to enhance the model's performance, such as fine-tuning hyperparameters or exploring different feature engineering techniques.
 
 ## 7. Website
-The project includes a web interface where users can input text messages and receive predictions on whether the message is spam or not. This interface is created using** Streamlit **The website provides a user-friendly interface for real-time spam detection.
+The project includes a web interface where users can input text messages and receive predictions on whether the message is spam or not. This interface is created using **Streamlit** . The website provides a user-friendly interface for real-time spam detection.
 
 ## 8. Deployment
 The final model is deployed, and the website is hosted to make it accessible to users. The deployed model and vectorizer are saved as pickle files for future use.
