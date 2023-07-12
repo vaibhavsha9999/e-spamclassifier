@@ -15,13 +15,13 @@ The project is structured as follows:
 7. Website
 8. Deployment
    
-1. Data Cleaning
+## 1. Data Cleaning
 In this step, we analyze the dataset, handle missing values, and remove unnecessary columns.
 
-2. Exploratory Data Analysis (EDA)
+## 2. Exploratory Data Analysis (EDA)
 EDA is performed to gain insights into the dataset. The target variable distribution is examined, and visualizations such as pie charts and histograms are created to understand the data.
 
-3. Text Preprocessing
+## 3. Text Preprocessing
 Text preprocessing is crucial to prepare the text data for modeling. The following steps are performed:
 
 - Lowercasing the text
