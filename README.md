@@ -1,12 +1,9 @@
 # Email/SMS Spamclassifier
 
 ## Technologies Used
-
 ### Programming Language
--Python
-
+- Python
 ### Libraries/Frameworks:
-
 - numpy
 - pandas
 - scikit-learn
@@ -14,9 +11,7 @@
 - matplotlib
 - seaborn
 - wordcloud
-
 ### Tools/Platforms:
-
 - Jupyter Notebook
 - VSCode
 - Docker
