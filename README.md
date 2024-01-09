@@ -45,6 +45,7 @@ The project includes a web interface where users can input text messages and rec
 ## 8. Deployment
 The final model is deployed, and the website is hosted to make it accessible to users. This process is done using **docker** and **Azure**.
 You can access the app from https://spamclassify.azurewebsites.net/
+It may take some time to load as it is deployed on free resource.
 
 ## Technologies Used
 ### Programming Language
